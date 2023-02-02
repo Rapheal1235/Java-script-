@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Rapheal
+// @lisence     Rapheal
 // @description 2023/2/2 08:21:41
 // ==/UserScript==
 
@@ -14,5 +15,5 @@
 
         console.log('hello world');
     }
-    
+
 )();
