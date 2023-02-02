@@ -1,1 +1,18 @@
-console.log('first version');
+// ==UserScript==
+// @name        hello world 
+// @namespace   test my script
+// @match       *://*/*
+// @grant       none
+// @version     1.0
+// @author      Rapheal
+// @description 2023/2/2 08:21:41
+// ==/UserScript==
+
+(
+    function() {
+        'use strict';
+
+        console.log('hello world');
+    }
+    
+)();
